@@ -80,7 +80,7 @@ section h2{
     width: 35%;
     color: #ffff;
     margin-right: 20px;
-    font-size: 28px;
+    font-size: 24px;
 
 }
 .homeBtn2
@@ -89,7 +89,7 @@ section h2{
     color: rgb(13, 112, 241);;
     border-radius: 40px;
     width: 35%;
-    font-size: 28px;
+    font-size: 24px;
 }
 .homeBtn2:hover
 {
@@ -99,7 +99,7 @@ section h2{
 .homeBtn button
 {
     
-    padding: 18px;
+    padding: 5px 8px 5px 5px;
 }
 .service-card-container
 {
@@ -145,7 +145,7 @@ section h2{
 }
 .doc-img
 {
-    border: 1px solid black;
+    border: 1px hidden black;
     border-radius: 20px;
     width: 30%;
     background-color: white;
@@ -188,7 +188,7 @@ article
     align-items: center;
     border: 1px solid #e23f3f;
     background-color: lab(52.25% 62.27 37.68 / 0.26);
-    border-radius: 3px;
+    border-radius: 8px;
     margin-top: 70px;
     margin-bottom: 70px;
     padding: 20px;
@@ -259,6 +259,7 @@ form
     padding: 15px;
     margin: 10px;
     outline: none;
+    border: 1px solid #9e9595;
 }
 .forminput:focus{
     border:5px solid rgb(147, 235, 238);
